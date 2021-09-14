@@ -27,6 +27,7 @@ for integrating Google Maps into React Native App on Android follow bellow instr
 + Create a Google Maps API Key
 + Create a Google Maps API Key under AndroidManifes.xml file under the “android/app/src/main/” folder
 + you need to add lines in build..gradle file for more information about lines visit following [webpage](https://medium.com/@samil.mehdiyev/integrating-google-maps-into-react-native-app-on-android-40c984c0e4f2). 
+</br>
 
 
 ### note
