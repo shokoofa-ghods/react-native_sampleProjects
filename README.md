@@ -16,7 +16,7 @@ will be stored in your file system provided that you allow the external storage 
 
 
 ## simple coordination finder app
-this app is set to get longitude and atitude to ascertain the exact cordination on page using map
+this app is set to get longitude and atitude to ascertain the exact coordination on page using map
 
 ### details
 - using google maps API
